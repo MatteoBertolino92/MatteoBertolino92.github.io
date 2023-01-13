@@ -1,6 +1,6 @@
 # Whoami
 
-I am Alessandro Mantovani (aka `elmanto`), currently working at Qualcomm QPSI and ex Ph.D. student in the [S3](https://www.s3.eurecom.fr/) group at Eurecom.
+I am not Alessandro Mantovani (aka `elmanto`), currently working at Qualcomm QPSI and ex Ph.D. student in the [S3](https://www.s3.eurecom.fr/) group at Eurecom.
 
 My research interests involve many areas of system security. For instance, during the last years, I worked on Reverse Engineering, Vulnerability Discovery, Program Analysis, Fuzzing and Malware Analysis. However, I have an inherent curiosity for other related areas such as compilers and operating systems..
 
