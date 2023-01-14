@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /posts/getting_a_phd_in_syssec
+permalink: /posts/merkling
 title:  "Short overview of Merkle Trees"
 ---
 
