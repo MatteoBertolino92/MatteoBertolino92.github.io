@@ -11,6 +11,7 @@ Outside the tech stuff, I love practicing sports and being healthy. When I feel 
 2023 resolutions also includes to dedicate some time on a blogpost page, where I can talk about both technicals and more general-purpose things. This is still **very** WIP, but refresh this page from time to time for updates.
 
 Link to all blog articles: [here]()
+
 Last article: [WIP]()
 
 # My contacts
