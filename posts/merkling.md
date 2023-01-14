@@ -35,8 +35,6 @@ The distributed nature of the blockchain allows a node of a blockchain (a peer) 
 Final note: Ethereum blockchains use a variant of Merkle trees named [Merkle Patricia trees](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/).
 
 ## Useful links
-1. [Ethereum whitepaper](https://ethereum.org/en/whitepaper/)
-2. [Merkling in ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
-3. [Blockchain demo](https://andersbrownworth.com/blockchain/blockchain)
-4. [Solidity bootcamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
-5. [Rinkeby Faucet](https://faucets.chain.link/)
+1. [Merkling in ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
+2. [Blockchain demo](https://andersbrownworth.com/blockchain/blockchain)
+3. [Solidity bootcamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
