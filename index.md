@@ -1,23 +1,24 @@
-# Whoami
+# Myself
 
-I am not Alessandro Mantovani (aka `elmanto`), currently working at Qualcomm QPSI and ex Ph.D. student in the [S3](https://www.s3.eurecom.fr/) group at Eurecom.
+I am Matteo Bertolino, currently working at Huawei Technologies as Senior Engineer and former Ph.D. student in the [LabSoc](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/system-on-chip-labsoc) of Télécom Paris.
 
-My research interests involve many areas of system security. For instance, during the last years, I worked on Reverse Engineering, Vulnerability Discovery, Program Analysis, Fuzzing and Malware Analysis. However, I have an inherent curiosity for other related areas such as compilers and operating systems..
+My research interests involve many areas of embedded systems, but not only. During the last years I focused on the design and the development of kernel subsystems, working in Zephyr RTOS, LiteOS, FreeBSD and other Huawei's proprietary OSes. However, I have a deep curiosity for many other areas such as design space exploration, modeling, algorithms (especially heuristics, optimization algorithms), and architectures.
 
-More generally, I love learning new things, ranging from low-level technical concepts to new hands-on practical skills. For example, recently I started to write Rust code for fun, despite the fact that as of now I do not have active projects that require Rust development.
-Another consequence of this "everyday learning" mood, led me to play CTFs, especially during the years of M.sc. and Ph.D., mainly with the [NOPS](https://www.s3.eurecom.fr/nops/index.html) team of Eurecom. As expected, my favorite categories are pwn and reversing.
+Outside the tech stuff, I love practicing sports and being healthy. When I feel unbalanced, I usually take care of my body. Vice-versa, I love enjoying a chill medidation. I am a big fan of MMORPGs (e.g., Guild Wars) and MOBAs (League of Legends). But, more than anything else, I love spending time with my family and people I love.
 
-In my free time, I love hanging out with friends for a beer and practicing sport activities like powerlifting, running and above all surf (and playing guitar, even though I do not have much time to do this).
+# My blog's articles
 
-# Other info
+2023 resolutions also includes to dedicate some time on a blogpost page, where I can talk about both technicals and more general-purpose things. This is still **very** WIP, but refresh this page from time to time for updates.
 
-More details about me at the following pages.
+Link to all blog articles: [here]()
+Last article: [WIP]()
 
+# My contacts
 
-Visit [this page](https://elmanto.github.io/projects) for a list of my pubblications, projects and descriptions.
-
-If you want to contact me, take a look at [the contact page](https://elmanto.github.io/contact).
-
-For some papers, I kept some artifacts (slides, github repositories) in my [old Eurecom website](https://www.s3.eurecom.fr/~elmanto/). Have a look at it.
-
-Finally, I plan to dedicate some time on a [blogpost](https://elmanto.github.io/posts) page eventually, to speak about both technical things and more general points of view.
+- You can contact me at:
+```
+$ python3
+>>> f"%sbertolino%s@gmail.%s" % ("matteo", "1992", "com")
+```
+- My Linkedin profile is [here](https://www.linkedin.com/in/matteo-bertolino-58859367/)
+- Visit [this page](https://scholar.google.com/citations?hl=it&view_op=list_works&gmla=AJsN-F4EkN9F5lFywprcjZLVfYhtmIlhPiFidOzvmgAUXYTwf-Vp3L2mJnytU_Pqih30UG-LkiMTxVtyx1_-GDByew_o_tZeS04oP3kTZ14IycxFZlNDTq0&user=CGWU3TkAAAAJ) to have a look to some publications.
