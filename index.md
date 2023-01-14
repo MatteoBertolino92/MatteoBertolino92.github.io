@@ -1,4 +1,6 @@
-# Myself
+# Matteo's world
+
+![Image](https://matteobertolino92.github.io/assets/photo.png)
 
 I am Matteo Bertolino, currently working at Huawei Technologies as Senior Engineer and former Ph.D. student in the [LabSoc](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/system-on-chip-labsoc) of Télécom Paris.
 
