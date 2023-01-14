@@ -12,7 +12,7 @@ Outside the tech stuff, I love practicing sports and being healthy. When I feel 
 
 Link to all blog articles: [here](https://matteobertolino92.github.io/posts)
 
-Last article: [WIP]()
+Last article: [Jan 2023 - Short overview of Merkle Trees](https://matteobertolino92.github.io/posts/merkling)
 
 # My contacts
 
