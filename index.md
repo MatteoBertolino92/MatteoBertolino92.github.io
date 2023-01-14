@@ -1,7 +1,7 @@
 # Matteo's world
 
-I am Matteo Bertolino, currently working at Huawei Technologies as Senior Engineer and former Ph.D. student in the [LabSoc](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/system-on-chip-labsoc) of Télécom Paris. 
-<img src="https://matteobertolino92.github.io/assets/photo.png" width="80" height="100" />
+<p> I am Matteo Bertolino, currently working at Huawei Technologies as Senior Engineer and former Ph.D. student in the [LabSoc](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/system-on-chip-labsoc) of Télécom Paris. 
+<img src="https://matteobertolino92.github.io/assets/photo.png" width="80" height="100" /> </p>
 
 My research interests involve many areas of embedded systems, but not only. During the last years I focused on the design and the development of kernel subsystems, working in Zephyr RTOS, LiteOS, FreeBSD and other Huawei's proprietary OSes. However, I have a deep curiosity for many other areas such as design space exploration, modeling, algorithms (especially heuristics, optimization algorithms), and architectures.
 
