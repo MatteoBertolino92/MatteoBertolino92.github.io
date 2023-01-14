@@ -1,12 +1,10 @@
-# Matteo's world
-
-<img src="https://matteobertolino92.github.io/assets/photo.png" width="80" height="100" position="absolute" top="0px" right="0px" alt="" />
+# Matteo's world <img src="https://matteobertolino92.github.io/assets/photo.png" width="80" height="100" style="float: right;" alt="" />
 
 I am Matteo Bertolino, currently working at Huawei Technologies as Senior Engineer and former Ph.D. student in the [LabSoc](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/system-on-chip-labsoc) of Télécom Paris. 
 
 My research interests involve many areas of embedded systems, but not only. During the last years I focused on the design and the development of kernel subsystems, working in Zephyr RTOS, LiteOS, FreeBSD and other Huawei's proprietary OSes. However, I have a deep curiosity for many other areas such as design space exploration, modeling, algorithms (especially heuristics, optimization algorithms), and architectures.
 
-Outside the tech stuff, I love practicing sports and being healthy. When I feel unbalanced, I usually take care of my body. Vice-versa, I love enjoying a chill medidation. I am a big fan of MMORPGs (e.g., Guild Wars) and MOBAs (League of Legends). But, more than anything else, I love spending time with my family and people I love.
+Outside the tech stuff, I love practicing sports and being healthy. When I feel unbalanced, I usually take care of my body. Vice-versa, I love enjoying a chill medidation. I am a fan of MMORPGs and MOBAs (e.g., League of Legends). But, more than anything else, I love spending time with my family and with the people I love.
 
 # My blog's articles
 
