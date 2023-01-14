@@ -4,8 +4,8 @@ permalink: /posts/merkling
 title:  "Short overview of Merkle Trees"
 ---
 
-## Short theory
-Merkle trees are wodely used to verify any kind of data which are transferred or archived through the use of cryptographic hashes. Briefly, "verifying" means assuring that a certain data block has not been tampered/it really comes from who claims to be the sender of it. Variants of Merkle trees are mainly used in Ethereum, Bitcoin or in any other blockchain peer-to-peer network.
+## Short overview of Merkle Trees
+Merkle trees are widely used to verify any kind of data which are transferred or archived through the use of cryptographic hashes. Briefly, "verifying" means assuring that a certain data block has not been tampered/it really comes from who claims to be the sender of it. Variants of Merkle trees are mainly used in Ethereum, Bitcoin or in any other blockchain peer-to-peer network.
 
 Merkle tree composition:
 * Leaves contains the hash of actual data (e.g., transactions in Ethereum).
