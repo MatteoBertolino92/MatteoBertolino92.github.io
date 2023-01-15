@@ -2,13 +2,13 @@
 
 I am Matteo Bertolino, currently working at Huawei Technologies as Senior Engineer and former Ph.D. student in the [LabSoc](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/system-on-chip-labsoc) of Télécom Paris. 
 
-My research interests involve many areas of embedded systems, but not only. During the last years I focused on the design and the development of kernel subsystems, working in Zephyr RTOS, LiteOS, FreeBSD and other Huawei's proprietary OSes. However, I have a deep curiosity for many other areas such as design space exploration, modeling, algorithms (especially heuristics, optimization algorithms), and architectures.
+My research interests involve embedded systems, but not only. During the last years I have been focused on the design and the development of kernel subsystems, working in Zephyr RTOS, LiteOS, FreeBSD and other Huawei's proprietary OSes. However, I have a deep curiosity for many other areas such as design space exploration, modeling, algorithms (especially heuristics, optimization algorithms), and architectures.
 
-Outside the tech stuff, I love practicing sports and being healthy. When I feel unbalanced, I usually take care of my body. Vice-versa, I love enjoying a chill medidation. I am a fan of MMORPGs and MOBAs (e.g., League of Legends). But, more than anything else, I love spending time with my family and with the people I love.
+Apart from the tech stuff, I lead a healthy life style and I like working out. If I feel unbalanced, I both take care of my body and my mind, by meditating for instance. I am a fan of MMORPGs and MOBAs (e.g., League of Legends). But, more than anything else, I love spending time with my family and with the people I love.
 
 # My blog's articles
 
-2023 resolutions also include to dedicate some time to a blogpost page, where I can talk about both technicals and more general-purpose things. This is still **very** WIP, but refresh this page from time to time for updates.
+My 2023 resolutions include dedicating some time to a blogpost page, where I can share both technicals and more general-purpose things. This is still **very** WIP, but refresh this page from time to time for updates.
 
 Link to all blog articles: [here](https://matteobertolino92.github.io/posts)
 
