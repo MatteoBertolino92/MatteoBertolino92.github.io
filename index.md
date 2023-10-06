@@ -1,14 +1,14 @@
 # Matteo Bertolino's homepage <img src="https://matteobertolino92.github.io/assets/photo.png" width="80" height="100" style="float: right;" alt="" />
 
-I am Matteo Bertolino, currently working at Huawei Technologies as Senior Engineer and former Ph.D. student in the [LabSoc](https://www.telecom-paris.fr/fr/recherche/laboratoires/laboratoire-traitement-et-communication-de-linformation-ltci/les-equipes-de-recherche/system-on-chip-labsoc) of Télécom Paris. 
+I am Matteo Bertolino, currently employed at Renault Group as a Technical Leader in Safety Software. In my previous roles, I worked as a Senior Engineer at Huawei Technologies and pursued a Ph.D. at Télécom Paris.
 
-My research interests involve embedded systems, but not only. During the last years I have been focused on the design and the development of kernel subsystems, working in Zephyr RTOS, LiteOS, FreeBSD and other Huawei's proprietary OSes. However, I have a deep curiosity for many other areas such as design space exploration, modeling, algorithms (especially heuristics, optimization algorithms), and architectures.
+My research interests encompass embedded systems, automotive engineering, kernel-related topics (Linux, Zephyr RTOS, LiteOS, FreeBSD, and similar systems), and modeling (Simulink).
 
-Apart from the tech stuff, I lead a healthy life style and I like working out. If I feel unbalanced, I both take care of my body and my mind, by meditating for instance. I am a fan of MMORPGs and MOBAs (e.g., League of Legends). But, more than anything else, I love spending time with my family and with the people I love.
+While I have a passion for tech, I am not defined solely by my job. I also enjoy cold immersions (have you heard of the Wim Hof method?), downhill cycling in the forest, working out, and spending quality time with my wonderful family.
 
 # My blog's articles
 
-My 2023 resolutions include dedicating some time to a blogpost page, where I can share both technicals and more general-purpose things. This is still **very** WIP, but refresh this page from time to time for updates.
+My new year resolutions include dedicating some time to a blogpost page, where I can share both technicals and more general-purpose things. This is still **very** WIP, but refresh this page from time to time for updates.
 
 Link to all blog articles: [here](https://matteobertolino92.github.io/posts)
 
