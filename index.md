@@ -12,7 +12,10 @@ My 2023 resolutions include dedicating some time to a blogpost page, where I can
 
 Link to all blog articles: [here](https://matteobertolino92.github.io/posts)
 
-Latest article: [Jan 2023 - Short overview of Merkle Trees](https://matteobertolino92.github.io/posts/merkling)
+Latest articles: 
+[Oct 2023 - Zeroing an Arm64 Register](https://matteobertolino92.github.io/posts/zeroing_arm64)
+
+[Jan 2023 - Short overview of Merkle Trees](https://matteobertolino92.github.io/posts/merkling)
 
 # My contacts
 
